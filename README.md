@@ -7,7 +7,7 @@ An interactive web application that simulates and visualizes **circular q-shift*
 > **[https://mesh-shift-visualizer.vercel.app](https://mesh-shift-visualizer.vercel.app)**  
 > *(Replace with your actual Vercel/Netlify URL after deployment)*
 
----
+----
 
 ## 📐 Algorithm Overview
 
