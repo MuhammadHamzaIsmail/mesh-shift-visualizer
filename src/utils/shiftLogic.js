@@ -50,16 +50,7 @@ export function ringSteps(p, q) {
   return Math.min(q, p - q);
 }
 
-/**
- * Apply Stage 1: Row Shift
- * Each row shifts data left by rowShift positions (circular within row)
- * Returns new flat array after row shifts
- */
-export function applyRowShift(data, p) {
-  const sqrtP = Math.floor(Math.sqrt(p));
-  const q = detectQ(data, p); // not needed here — we pass shift amount directly
-  return data; // See applyRowShiftAmount below
-}
+
 
 /**
  * Apply Stage 1: Row Shift by given amount
