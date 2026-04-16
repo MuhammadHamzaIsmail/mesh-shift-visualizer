@@ -26,6 +26,7 @@ On a 2D mesh (√p × √p), this is done in two stages:
 
 ## 🚀 Running Locally
 
+
 ### Prerequisites
 - Node.js ≥ 16
 - npm or yarn
